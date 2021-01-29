@@ -1,0 +1,3 @@
+#!/bin/bash
+scripts/console cache:clear --no-warmup
+scripts/console doctrine:fixtures:load -n
