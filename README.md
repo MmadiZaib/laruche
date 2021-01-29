@@ -1,10 +1,10 @@
 ## Installation du projet 
 
-Pour tester le projet sur votre environnement local, il est conseillé d'avoir docker installé car le projet est dockérisé
+Pour tester le projet sur votre environnement local, il est conseillé d'avoir docker installé car le projet est dockerisé
 
-1 - Cloner le projet : `git clone `
+1 - Cloner le projet : `git clone git@github.com:MmadiZaib/laruche.git`
 
-2 - `cd laruche_test`
+2 - `cd laruche`
 
 3 - `docker-compose up -d`
 
@@ -44,6 +44,6 @@ L'api est sécurisée par Authenfication JWT. Pour tester l'api il faut faire le
 - 5 / Installation de l' ``orm-fixtures`` pour la création de fixtures de l'entité ``USER``
 
 
-Merci 
+##Merci 
 
 
